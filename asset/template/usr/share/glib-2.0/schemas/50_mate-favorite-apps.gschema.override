@@ -1,7 +1,7 @@
 
 
 [org.mate.applications-terminal]
-exec='sakura'
+exec='mate-terminal'
 exec-arg='-x'
 
 
