@@ -1,0 +1,22 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## * https://wiki.archlinux.org/title/MATE
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Mate
+##
+
+mate
+mate-extra
