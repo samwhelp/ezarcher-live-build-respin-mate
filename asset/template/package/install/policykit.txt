@@ -34,7 +34,7 @@ polkit-gnome
 ## ## Package / Polkit / mate
 ##
 
-mate-polkit
+#mate-polkit
 
 
 
@@ -52,4 +52,4 @@ mate-polkit
 ## ## Package / Polkit / hyprland
 ##
 
-#hyprpolkitagent
+hyprpolkitagent
